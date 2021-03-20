@@ -1,0 +1,137 @@
+/* header */
+
+header {
+    background: #16a085;
+    padding: 0px 0;
+}
+.header-logo p {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 70px;
+}
+.header-logo {}
+.header-logo a {
+    color: #fff;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 21px;
+}
+.header-menu {}
+.header-menu ul {
+    list-style: none;
+    float: right;
+}
+.header-menu ul li {
+    display: inline-block;
+}
+.header-menu ul li a {
+    display: inline-block;
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 23px;
+    padding: 10px 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-top: 17px;
+    margin-bottom: 0px;
+}
+
+/* slider-section */
+
+.slider-section {
+    background-image: url(https://images.wallpaperscraft.com/image/building_architecture_city_142301_1920x1080.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 50px 0;
+}
+.slider-content {
+    color: #fff;
+    background: black;
+    width: 720px;
+    padding: 25px 63px;
+    opacity: 67.1%;
+    border-radius: 5px;
+}
+.slider-content h2 {
+    color: #fff;
+    z-index: ;
+    text-transform: capitalize;
+    font-size: 46px;
+    font-weight: 600;
+}
+.slider-content p {
+    font-size: 16px;
+    line-height: 28px;
+    color: #d2d2d2;
+    padding: 25px 0;
+}
+.slider-content .btn {
+    background: #19a86c;
+    color: #fff;
+    padding: 15px 41px;
+}
+
+
+/* service-section */
+
+.service-section {
+
+}
+.service-content {}
+.service-content span {
+    color: #fff;
+    display: inline-block;
+    font-size: 59px;
+    background: #16a085;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    padding-top: 54px;
+    box-shadow: 2px 4px 8px #bdbdbd;
+}
+.service-content h2 {
+    font-size: 31px;
+    text-transform: capitalize;
+    padding: 26px 0 1px;
+    font-weight: 600;
+}
+.service-content p {}
+
+/* .about-section */
+
+.about-section {
+    background: #bbfff269;
+}
+.about-section h2 {
+    font-size: 55px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.about-section h3 {
+    font-size: 22px;
+    text-transform: full-width;
+    padding: 18px 10px 22px;
+    line-height: 39px;
+}
+.about-section p {
+    font-size: 26px;
+}
+
+/* contact-section  */
+.contact-form .btn {
+    background-color: #16a085;
+}
+
+
+
+/* .footer-section */
+.footer-section {
+    background-color: #16a085;
+}
+.footer-section p {
+    margin-bottom: 0;
+    color: #fff;
+}
+
+
